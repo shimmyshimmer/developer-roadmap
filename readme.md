@@ -2,18 +2,29 @@
   <img src="https://github.com/shimmyshimmer/developer-roadmap/blob/master/image(40).png" height="128">
   <h2 align="center"><a href="https://unsloth.ai">unsloth.ai</a></h2>
   <p align="center">Finetune Mistral, Llama 2-5x faster with 50% less memory!<p>
+    <p align="center">
+  <a href="https://colab.research.google.com/drive/1Dyauq4kTZoLewQ1cApceUQVNcnnNTzg_?usp=sharing"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/Free%20version%20button.png" height="50"></a>
+  <a href="https://discord.gg/u54VK8m8tk"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/Discord button.png" height="50"></a>
+  <a href="https://ko-fi.com/unsloth"><img src="https://raw.githubusercontent.com/unslothai/unsloth/main/images/Kofi button.png" height="50"></a>
+</p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
     </a>
+    <a href="https://roadmap.sh/roadmaps">
+    	<img src="https://img.shields.io/github/license/huggingface/transformers.svg?color=blue" alt="roadmaps" />
+    </a>
+    <a href="https://roadmap.sh/roadmaps">
+    	<img src="https://img.shields.io/github/release/huggingface/transformers.svg" alt="roadmaps" />
+    </a>
     <a href="https://roadmap.sh/best-practices">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
+    	<img src="https://img.shields.io/badge/%F0%9F%A4%97 Hugging Face-Models-yellow" alt="best practices" />
     </a>
     <a href="https://roadmap.sh/questions">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+    	<img src="https://img.shields.io/twitter/follow/:unslothai" alt="twitter unsloth" />
     </a>
     <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-    	<img src="https://img.shields.io/discord/1179035537009545276?logo=discord&label=Discord&color=5865F2" alt="roadmaps" />
+    	<img src="https://img.shields.io/discord/1179035537009545276?logo=discord&label=Discord&color=5865F2" alt="unsloth discord" />
     </a>
   </p>
 </p>
