@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="public/images/brand.png" height="128">
-  <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
-  <p align="center">Community driven roadmaps, articles and resources for developers<p>
+  <img src="https://github.com/shimmyshimmer/developer-roadmap/blob/master/image(40).png" height="128">
+  <h2 align="center"><a href="https://unsloth.ai">unsloth.ai</a></h2>
+  <p align="center">Finetune Mistral, Llama 2-5x faster with 50% less memory!<p>
   <p align="center">
     <a href="https://roadmap.sh/roadmaps">
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
@@ -13,20 +13,20 @@
     	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
     </a>
     <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
-    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    	<img src="https://img.shields.io/discord/1179035537009545276?logo=discord&label=Discord&color=5865F2" alt="roadmaps" />
     </a>
   </p>
 </p>
 
 <br>
 
-![](https://i.imgur.com/waxVImv.png)
+![](https://i.ibb.co/sJ7RhGG/image-41.png)
 
 Roadmaps are now interactive, you can click the nodes to read more about the topics.
 
 ### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions)
 
-![](https://i.imgur.com/waxVImv.png)
+![](https://i.ibb.co/sJ7RhGG/image-41.png)
 
 Here is the list of available roadmaps with more being actively worked upon.
 
